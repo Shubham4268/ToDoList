@@ -1,0 +1,24 @@
+body{
+    background-color: #6d6a6a;
+}
+.container{
+    /* border: 2px solid black; */
+    background-color: #e7e19e;
+    margin-top: 30px;
+    padding: 30px;
+    width: 700px;
+    min-height: 700px;
+    border-radius: 60px;
+}
+
+.read{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: center;
+}
+.table{
+    margin: auto;
+    width: 600px;
+}
+
